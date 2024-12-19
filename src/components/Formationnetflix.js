@@ -9,36 +9,36 @@ const formations = [
         title: "Formation PHP / Framework Symfony 2 & 3",
         institution: "Human Booster",
         date: "Juin 2017 - Août 2017",
-        image: "/images/formation/humanbooster.jpeg",
+        image: "/devflix/images/formation/humanbooster.jpeg",
     },
     {
         title: "Formation Développeur Web",
         institution: "OpenClassrooms",
         date: "Sept. 2016 - Avr. 2017",
-        image: "/images/formation/openclassrooms.jpeg",
+        image: "/devflix/images/formation/openclassrooms.jpeg",
     },
     {
         title: "Master européen Management et Stratégie d’Entreprise",
         institution: "Ecole de Commerce Coaching PACA",
         date: "Sept. 2015 - Juin 2016",
-        image: "/images/formation/cropped_resized_image.jpeg",
+        image: "/devflix/images/formation/cropped_resized_image.jpeg",
     },
     {
         title: "DEESCOM, Communication",
         institution: "Ecole de Commerce Coaching PACA",
         date: "Sept. 2014 - Juin 2015",
-        image: "/images/formation/cropped_resized_image.jpeg",
+        image: "/devflix/images/formation/cropped_resized_image.jpeg",
     },
     {
         title: "BTS Communication",
         institution: "CNED",
         date: "Sept. 2012 - Juin 2014",
-        image: "/images/formation/cropped_resized_image.jpeg",
+        image: "/devflix/images/formation/cropped_resized_image.jpeg",
     },
 ];
 
 // Image par défaut
-const defaultImage = "/images/formation/cropped_resized_image.jpeg";
+const defaultImage = "/devflix/images/formation/cropped_resized_image.jpeg";
 
 // Flèches personnalisées
 const CustomPrevArrow = (props) => {
