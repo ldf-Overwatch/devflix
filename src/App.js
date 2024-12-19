@@ -12,6 +12,7 @@ import Formationnetflix from "./components/Formationnetflix"; // Nom correct
 import Skills from "./components/Skills";
 import ScrollToTop from "./components/ScrollToTop";
 
+
 function App() {
     return (
         <ThemeProvider theme={netflixTheme}>
