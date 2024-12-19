@@ -98,7 +98,7 @@ function Header() {
                         flexGrow: 1,
                     }}
                 >
-                    DevFlix
+                    coderflix
                 </Typography>
 
                 <IconButton
