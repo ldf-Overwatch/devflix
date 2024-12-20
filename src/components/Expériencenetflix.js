@@ -8,21 +8,21 @@ const experiences = [
     {
         title: "Développeur Web Full Stack - PONTOS",
         description: "Développement d’une plateforme numérique d’analyses de l’écosystème marin pour les compagnies de pêche locales en collaboration avec l’INRIA.",
-        image: "/coderflix/images/ponto.jpeg",
+        image: "/images/ponto.jpeg",
         date: "Janv. 2024 - Déc. 2024",
         tags: ["ReactJS", "Next.js", "Node.js", "AWS" ,"MongoDB" ,"Github" ,"API Rest"],
     },
     {
         title: "Développeur Web Full Stack - Mon Compte",
         description: "Auto Entrepreneur",
-        image: "/coderflix/images/formation/cropped_resized_image.jpeg",
+        image: "/images/formation/cropped_resized_image.jpeg",
         date: "Févr. 2023 - maintenant ",
         tags: ["JavaScript", "ExpressJS", "MongoDB" ,"node","next.js","ReactJS"],
     },
     {
         title: "Développeur Web Full Stack - STRIME",
         description: "Plateforme B2B facilitant les commandes entre fournisseurs et grands magasins.",
-        image: "/coderflix/images/strime.jpeg",
+        image: "/images/strime.jpeg",
         date: "Févr. 2023 - Août 2023",
         tags: ["Next.js", "MySQL", "Docker", "CircleCI" ,"API Rest","SCSS" ," ExpressJS," ,"Sequeliz" ,'Git' ,
             "Nginx" ," tests unitaires avec Jest"],
@@ -30,7 +30,7 @@ const experiences = [
     {
         title: "Développeur JavaScript - GRAPHCOMMENT",
         description: "Plateforme SaaS de discussions dédiée aux médias et aux blogs.",
-        image: "/coderflix/images/graphc.jpeg",
+        image: "/images/graphc.jpeg",
         date: "Janv. 2019 - Déc. 2022",
         tags: ["GraphQL", "TypeScript", "MongoDB","API Rest","Tailwind","SCSS" ,"ExpressJS","Mongoose"
             ,"Mongoose" ,"Git" ,"Nginx"],
@@ -38,13 +38,13 @@ const experiences = [
     {
         title: "Chef de Projets Marketing - ONE GLOBAL QOL",
         description: "Organisation d’événements et gestion des campagnes marketing.",
-        image: "/coderflix/images/formation/cropped_resized_image.jpeg",
+        image: "/images/formation/cropped_resized_image.jpeg",
         date: "Sept. 2015 - Sept. 2016",
         tags: ["Marketing", "Événementiel", "Gestion de projet"],
     },
 ];
 
-const defaultImage = "/coderflix/images/formation/cropped_resized_image.jpeg";
+const defaultImage = "/images/formation/cropped_resized_image.jpeg";
 
 const CustomPrevArrow = (props) => {
     const { onClick } = props;

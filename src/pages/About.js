@@ -22,7 +22,7 @@ const About = () => {
                 <Grid item xs={12} sm={6} sx={{ mb: 4 }}>
                     <Fade in={true} timeout={1000}>
                         <Avatar
-                            src="/coderflix/images/avatar.jpg"
+                            src="/images/avatar.jpg"
                             alt="Laure Dalla Fior"
                             sx={{
                                 width: 180,
